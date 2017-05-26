@@ -4,7 +4,7 @@ require('./index.css');
 
 class App extends React.Component{
 	render(){
-		return(<div>Hola mundo</div>);
+		return(<div>Hola React Training!</div>);
 	}
 }
 
