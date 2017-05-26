@@ -1,0 +1,23 @@
+{
+  "name": "github-battle",
+  "version": "1.0.0",
+  "description": "Ejercicio de reacttraining.com",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/drcrow/github-battle.git"
+  },
+  "author": "Agustin Fiori",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/drcrow/github-battle/issues"
+  },
+  "homepage": "https://github.com/drcrow/github-battle#readme",
+  "dependencies": {
+    "react": "^15.5.4",
+    "react-dom": "^15.5.4"
+  }
+}
